@@ -3,7 +3,7 @@ Database optimization for leading reviews site. Explore the challenges, approach
 ## Introduction
 While managing the backend operations of a bustling e-commerce platform for [VGO Promo](https://www.vgopromo.com), a significant lag in database query responses was identified. This repository showcases the journey from recognizing the challenge to implementing effective solutions, presented visually through a flowchart.
 
-([Site Flowchart.png](https://github.com/vgopromo/Optimized-DB-Queries-Flowchart/blob/main/Optimizing%20Database%20Queries%20for%20High-Traffic%20E-commerce%20Site%20Flowchart.png))
+([Site Flowchart.png](Optimizing Database Queries for High-Traffic E-commerce Site Flowchart.png))
 
 ## Challenge
 The rapid growth of [vgopromo.com](https://www.vgopromo.com), a leading promo codes platform, led to a surge in the volume of database queries. The existing database structure, though effective initially, began to struggle with the increased load, affecting both backend processes and frontend user experience.
