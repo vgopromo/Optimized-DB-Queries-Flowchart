@@ -17,9 +17,6 @@ To ensure a seamless shopping experience for VGO Promo users, a combination of m
 
 ## Results
 The outcome was a significant reduction in query runtime, ensuring smoother operations for [VGO](https://www.vgopromo.com).
-
-## Visuals
-Detailed visuals, including before-and-after screenshots of the database's performance and snippets of the custom script, can be found [here]([path_to_detailed_visuals_folder](Optimizing Database Queries for High-Traffic E-commerce Site Flowchart.png)
 .
 ## Want to Learn More?
 Explore the technical side of promo codes and discover exciting deals at [vgopromo.com](https://www.vgopromo.com).
